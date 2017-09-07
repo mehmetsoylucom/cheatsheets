@@ -18,4 +18,4 @@ The config file is ``.gitmodules``
 
 Remove related rows from .gitmodules
 
-    ``vim .gitmodules``
+    vim .gitmodules
