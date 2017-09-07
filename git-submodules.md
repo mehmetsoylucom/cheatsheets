@@ -15,5 +15,7 @@ The config file is ``.gitmodules``
     git submodule deinit -f -- directoryOrName
     rm -rf .git/modules/directoryOrName
     git rm –cached directory
+
 Remove related rows from .gitmodules
-    vim .gitmodules 
+
+    ``vim .gitmodules``
