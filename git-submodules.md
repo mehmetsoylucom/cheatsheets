@@ -2,7 +2,7 @@
 
 The config file is ``.gitmodules``
 
-#### Add submodule
+### Add submodule
     git submodule add git://github.com/me/module.git directory
     git status
 
